@@ -1,0 +1,66 @@
+[
+    {
+      "productName": "Wireless Mouse",
+      "productType": "DIGITAL",
+      "productCode": "DIG001",
+      "price": 25.99,
+      "sale": true
+    },
+    {
+      "productName": "Bluetooth Speaker",
+      "productType": "DIGITAL",
+      "productCode": "DIG002",
+      "price": 49.99,
+      "sale": false
+    },
+    {
+      "productName": "Casual T-Shirt",
+      "productType": "CLOTHES",
+      "productCode": "CLT001",
+      "price": 15.99,
+      "sale": true
+    },
+    {
+      "productName": "Slim-fit Jeans",
+      "productType": "CLOTHES",
+      "productCode": "CLT002",
+      "price": 39.99,
+      "sale": false
+    },
+    {
+      "productName": "Smartwatch",
+      "productType": "DIGITAL",
+      "productCode": "DIG003",
+      "price": 199.99,
+      "sale": true
+    },
+	{
+	      "productName": "Headphone",
+	      "productType": "DIGITAL",
+	      "productCode": "DIG004",
+	      "price": 50.99,
+	      "sale": false
+	    },
+		{
+	      "productName": "skirt",
+	      "productType": "CLOTHES",
+	      "productCode": "CLT003",
+	      "price": 119.99,
+	      "sale": false
+  },
+  {
+  	      "productName": "tie",
+  	      "productType": "CLOTHES",
+  	      "productCode": "CLT004",
+  	      "price": 150.99,
+  	      "sale": false
+    },
+	{
+	 	      "productName": "tie",
+	 	      "productType": "CLOTHES",
+	 	      "productCode": "CLT005",
+	 	      "price": 150.99,
+	 	      "sale": false
+	   }
+  
+]
